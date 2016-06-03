@@ -7,6 +7,9 @@ just an intro text
 
 ## Purpose
 
+Here is purpose text, that's it
+
 ## Deployment
+this is simple web project
 
 ## How To Contribute
