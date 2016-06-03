@@ -3,6 +3,7 @@
 This is a simple website project
 
 ## Intro 
+just an intro text 
 
 ## Purpose
 
