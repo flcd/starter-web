@@ -13,3 +13,7 @@ Here is purpose text, that's it
 this is simple web project
 
 ## How To Contribute
+
+## Copyright
+
+year 2016
