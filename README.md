@@ -13,6 +13,7 @@ Here is purpose text, that's it
 this is simple web project
 
 ## How To Contribute
+Please fork this repository and than issue Pull request for review
 
 ## Copyright
 https://www.udemy.com/git-complete/learn/v4/t/lecture/2006838?start=45
